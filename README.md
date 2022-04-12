@@ -4,9 +4,9 @@
 
 <div style="display:flex; align-items:baseline; gap:4px">
 
-[![forthebadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)](https://go.dev/)
-
 [![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/abiiranathan/gonet)
+
+[![Go Reference](https://pkg.go.dev/badge/github.com/abiiranathan/gonet.svg)](https://pkg.go.dev/github.com/abiiranathan/gonet)
 
 </div>
 
